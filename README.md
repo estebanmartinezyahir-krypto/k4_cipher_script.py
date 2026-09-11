@@ -45,7 +45,7 @@ def ejecutar_desplazamiento_k4(texto_cifrado, pivotes):
         
         resultado_linea = "".join(texto_plano_lista)
         
-        if verificar_raices_linguisticas(resultado_linea) or shift_index in:
+        if verificar_raices_linguisticas(resultado_linea)
             print(f"📌 [Shift {shift_index:02d}] -> Mapeo resultante: {resultado_linea}")
             coincidencias_encontradas += 1
             
